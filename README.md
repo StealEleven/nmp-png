@@ -13,7 +13,6 @@
 ![nmp](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/k_trad_28.png)
 ![nmp](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/k_vok.png)
 ![nmp](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/korall_main01_ns.png)
-![nmp](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/names.txt)
 ![nmp](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/pancake_cat.png)
 ![nmp](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/pancake_smile.png)
 ![nmp](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/pancake_sun.png)
@@ -26,4 +25,3 @@
 ![nmp](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/T_pancake_20.png)
 ![nmp](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/t_sq.png)
 ![nmp](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/t_sq_gril.png)
-
