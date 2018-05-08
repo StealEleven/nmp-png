@@ -1,4 +1,4 @@
 # АО "Нева металл посуда"
 
-![test](https://github.com/StealEleven/nmp-png/png/A_vok_30-pp_ns.png)
+![test](https://raw.githubusercontent.com/StealEleven/nmp-png/master/png/A_vok_30-pp_ns.png)
 
